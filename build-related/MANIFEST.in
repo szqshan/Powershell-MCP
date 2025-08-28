@@ -1,0 +1,12 @@
+# 包含源代码
+recursive-include source-code/mcp-powershell *.py
+
+# 包含文档
+include README.md
+include LICENSE
+
+# 排除不需要的文件
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .git*
+global-exclude .DS_Store

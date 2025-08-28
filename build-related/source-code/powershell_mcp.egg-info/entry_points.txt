@@ -1,0 +1,2 @@
+[console_scripts]
+powershell-mcp = mcp_powershell:main

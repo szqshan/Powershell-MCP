@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: mcp-powershell
+Version: 1.0.0
+Summary: PowerShell MCP toolkit for executing PowerShell commands via MCP protocol
+Author-email: DataMaster <your.email@example.com>
+Project-URL: Homepage, https://github.com/datamaster/mcp-powershell
+Project-URL: Bug Reports, https://github.com/datamaster/mcp-powershell/issues
+Project-URL: Source, https://github.com/datamaster/mcp-powershell
+Keywords: powershell,mcp,server,automation,cli
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: mcp>=1.0.0

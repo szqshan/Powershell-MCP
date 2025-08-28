@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "powershell": {
+      "command": "uvx",
+      "args": ["powershell-mcp"]
+    }
+  }
+}

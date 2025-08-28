@@ -1,0 +1,15 @@
+MANIFEST.in
+pyproject.toml
+../source-code/powershell_mcp.egg-info/PKG-INFO
+../source-code/powershell_mcp.egg-info/SOURCES.txt
+../source-code/powershell_mcp.egg-info/dependency_links.txt
+../source-code/powershell_mcp.egg-info/entry_points.txt
+../source-code/powershell_mcp.egg-info/requires.txt
+../source-code/powershell_mcp.egg-info/top_level.txt
+../source-code/mcp_powershell/__init__.py
+../source-code/powershell_mcp.egg-info/PKG-INFO
+../source-code/powershell_mcp.egg-info/SOURCES.txt
+../source-code/powershell_mcp.egg-info/dependency_links.txt
+../source-code/powershell_mcp.egg-info/entry_points.txt
+../source-code/powershell_mcp.egg-info/requires.txt
+../source-code/powershell_mcp.egg-info/top_level.txt
