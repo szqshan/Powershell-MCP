@@ -24,7 +24,7 @@
 
 ### 🚀 环境要求
 - **Python**: 3.8或更高版本
-- **PowerShell**: 系统自动检测（Windows自带，Linux/macOS需安装）
+- **PowerShell**: 系统自动检测
 - **网络**: 需要PyPI访问权限（用于安装依赖）
 
 ### 📦 安装方式
